@@ -134,6 +134,7 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone <repository_url>
+cd CGLE
 ```
 
 ### Running Experiments
